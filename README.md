@@ -2,27 +2,30 @@
 
 ## About Me
 - Data Analytics Student
+- Interested in data and technology
 - Learning Python, SQL and Machine Learning
-- Interested in Data Analytics, AI and Technology
-- Building projects to improve my skills
+- Always exploring new things
 
 ## Skills
-- Python
+- SQL
+- python
 - Pandas
 - NumPy
-- SQL
 - Matplotlib
 - Seaborn
+- excel
 
 ## Projects
-- Fraud Detection Using Machine Learning
+- Fraud Detection project
 
 ## Currently Learning
 - Python
 - SQL
 - Data Visualization
+- poer BI
 
 ## Goals
-- Improve my data analysis skills
-- Build practical projects
-- Explore new technologies
+- Strengthen my data analytics skills
+- Work on real-world projects
+- Learn advanced data analysis techniques
+- Continuously improve my knowledge
