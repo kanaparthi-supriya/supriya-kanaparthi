@@ -14,10 +14,11 @@
 - Matplotlib
 - Seaborn
 - excel
-
+- 
 ## Projects
 
 - [Fraud Detection Using Machine Learning](https://github.com/supriya-kanaparthi/Fraud-Detection)
+
 - [Android App Market Analysis](https://github.com/kanaparthi-supriya/Android-App-Market-Analysis)
 
 ## Currently Learning
