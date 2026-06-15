@@ -16,7 +16,8 @@
 - excel
 
 ## Projects
-- Fraud Detection project
+
+- [Fraud Detection Using Machine Learning](https://github.com/supriya-kanaparthi/Fraud-Detection)
 
 ## Currently Learning
 - Python
