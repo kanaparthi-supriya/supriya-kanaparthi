@@ -1,4 +1,4 @@
-# Hi, I'm Supriya 👋
+# Hi, I'm Kanaparthi Supriya 👋
 
 ## About Me
 - Data Analytics Student
